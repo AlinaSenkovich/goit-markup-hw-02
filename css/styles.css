@@ -104,7 +104,7 @@ body {
     color: var(--secondary-title-color);
 }
 .pre-title-text {
-    font-weight: normal;
+    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -127,7 +127,7 @@ body {
     color: var(--primary-text-color);
 }
 .pre-title-name {
-    font-weight: normal;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
@@ -143,7 +143,7 @@ body {
     color: var(--primary-text-color);
     }
     .pre-title-portfolio-text {
-    font-weight: normal;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
     letter-spacing: 0.03em;
@@ -166,14 +166,14 @@ body {
     font-style: normal;
 }
 .footer-address-link {
-    font-weight: normal;
+    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--primary-title-color);
 }
 .footer-contacts-link {
-    font-weight: normal;
+    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
