@@ -18,6 +18,9 @@ body {
 }
 /*Шапка*/
 .logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -84,6 +87,7 @@ body {
     background-color: var(--accent-color);
 }
 .btn-portfolio {
+    font-family:inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -146,7 +150,7 @@ body {
     letter-spacing: 0.06em;
     color: var(--primary-text-color);
     }
-    .pre-title-portfolio-text {
+.pre-title-portfolio-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
@@ -158,6 +162,8 @@ body {
     background-color: #2F303A;
 }
 .logo-footer {
+    font-family: 'Raleway';
+    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
